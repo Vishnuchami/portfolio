@@ -1,0 +1,95 @@
+body{ background-color: black;}
+header{
+    padding:20px
+}
+header span{
+color: white;
+font-size: 21px;
+font-weight:bold;
+
+}
+
+.span1{
+margin-right: 40px;
+}
+.span2{
+    margin-right: 500px;
+    }
+    .span3{
+        margin-right:450px;
+        }
+        .span4{
+            background-color: blanchedalmond;
+            color: black;
+            padding: 10px;
+            border-radius: 89px;
+        }
+        div{
+            font-size: 70px;
+            font-style: oblique;
+            color: white;
+            padding:20px;
+            margin: 20px;
+        }
+        .p1{
+            font-size: 40px;
+            padding-bottom: 5px;
+            color: white;
+        }
+        .div2{
+            color: black;
+            background-image: url(R.jpg);
+            background-repeat: no-repeat;
+        }
+        .white{
+            color: white;
+        }
+        .span5{
+            background-color: white;
+            font-size:40px;
+            color:black;
+            border-radius: 89px;
+        }
+        .p2{
+            font-size: 25px;
+            color: blue;
+        }
+        .p3{
+            font-size:35px ; }
+            .span6{
+                background-color: white;
+                color: black;
+                font-size: 40px;
+                border-radius: 10px;
+            }
+            .p4{
+                color: white;
+                font-size: 40px;
+                padding-left: 700px;
+            }
+            .p5{color: white ;
+                font-size:20px ;
+                padding-left: 700px
+            }
+                .span7{
+                    font-size: 30px;
+                    background-color:black  ;
+                    color: white;
+                    margin-left: 800px;
+                    border-radius: 900px;
+    
+                }
+                .div4{
+                    background-color: blue;
+                }
+                .span8{
+                    margin-right: 15px;
+                    color:white;
+                    border-radius: 35px;
+                    font-size: 30px; }
+                
+                .span9{
+                    margin-left:400px ;
+                    font-size: 30px;
+                    color: blue;
+                }
